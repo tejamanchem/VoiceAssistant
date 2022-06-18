@@ -1,0 +1,19 @@
+Modules Installed
+
+1.Pyttsx3: This module is used for conversion of text to speech in a program it works offline. 
+To install this module type the below command in the terminal.
+pip install pyttsx3
+
+2.Wikipedia: As we all know Wikipedia is a great source of knowledge. We 
+have used Wikipedia module to get information from Wikipedia or to perform Wikipedia search. 
+To install this module type the below command in the terminal.
+pip install wikipedia
+
+3.Speech Recognition: Since we’re building an Application of voice assistant, one of the most
+important things in this is that your assistant recognizes your voice (means what you want to say/ ask). 
+To install this module type the below command in the terminal.
+pip install SpeechRecognition
+
+4.Web browser: To perform Web Search. This module comes buit-in with Python.
+
+5.Datetime: Date and Time is used to showing Date and Time. This module comes built-int with Python
